@@ -15,7 +15,7 @@
 	<name>NewBlogger_App_With_Swagger3</name>
 	<description>Blogging Application APIs</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
